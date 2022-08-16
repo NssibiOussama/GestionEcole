@@ -35,6 +35,9 @@ public class Administration {
     public void setNom(String nom) {
         this.nom = nom;
     }
+    public void afiicher (){
+    System.out.println("Bonjour Bonjour") ;
+}
     
     
 }
